@@ -1,6 +1,7 @@
 # AVT-ECoClass-VR-dataset
 
-This is a repository with data related to the AVT-ECoClass-VR-dataset dataset that is published in course of the paper submitted to the Frontiers research topic "Crossing Sensory Boundaries: Multisensory Perception Through the Lens of Audition".
+This is a repository related to the AVT-ECoClass-VR-dataset that is published in course of the paper submitted to the Frontiers research topic "Crossing Sensory Boundaries: Multisensory Perception Through the Lens of Audition".
+It contains data collected during the three experiments described in the mentioned paper.
 This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - Project ECoClass-VR (DFG-444697733).
 
 If you make use any of the dataset please cite the following paper:
