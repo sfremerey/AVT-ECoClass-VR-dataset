@@ -1,5 +1,4 @@
-# AVT-ECoClass-VR
-[![DOI](https://zenodo.org/badge/754167011.svg)](https://zenodo.org/badge/latestdoi/754167011)
+# AVT-ECoClass-VR-dataset
 
 This is a repository with data related to the AVT-ECoClass-VR-dataset dataset that is published in course of the paper submitted to the Frontiers research topic "Crossing Sensory Boundaries: Multisensory Perception Through the Lens of Audition".
 This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - Project ECoClass-VR (DFG-444697733).
