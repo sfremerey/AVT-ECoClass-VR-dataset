@@ -1,0 +1,16 @@
+{
+  "player": "thirdparty\\mpv-x86_64-20180429-git-dc16d85\\mpv.exe  --cursor-autohide=0 --osc=no --no-input-default-bindings --hwdec=auto --ontop --fs {filename}",
+  "player_linux": "mpv --fs --ontop {filename}",
+  "http_user_name": "max",
+  "http_user_password": "123",
+  "http_port": "12347",
+  "playlist": "playlist.list",
+  "template_folder": "templates",
+  "training": true,
+  "trainingsplaylist": "training.list",
+  "rating_template": "rating/eco.tpl",
+  "shuffle": false,
+  "questionnaire": true,
+  "no_media_playback": true,
+  "question": "What is your opinion of the video quality?"
+}

@@ -1,0 +1,1330 @@
+{
+    "chairs_speaker_story_mapping": [
+        {
+            "chair_1": {
+                "speaker": "8",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_2": {
+                "speaker": "11",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_3": {
+                "speaker": "13",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_4": {
+                "speaker": "12",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_5": {
+                "speaker": "2",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_6": {
+                "speaker": "3",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_7": {
+                "speaker": "10",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_8": {
+                "speaker": "1",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_9": {
+                "speaker": "5",
+                "story": "5",
+                "assigned_story": "11"
+            },
+            "chair_10": {
+                "speaker": "19",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_11": {
+                "speaker": "9",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_12": {
+                "speaker": "20",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_13": {
+                "speaker": "6",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_14": {
+                "speaker": "16",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_15": {
+                "speaker": "7",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_16": {
+                "speaker": "4",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_17": {
+                "speaker": "17",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_18": {
+                "speaker": "18",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_19": {
+                "speaker": "14",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_20": {
+                "speaker": "15",
+                "story": "11",
+                "assigned_story": "11"
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": "11",
+                "story": "3",
+                "assigned_story": "11"
+            },
+            "chair_2": {
+                "speaker": "17",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_3": {
+                "speaker": "10",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_4": {
+                "speaker": "14",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_5": {
+                "speaker": "13",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_6": {
+                "speaker": "7",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_7": {
+                "speaker": "15",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_8": {
+                "speaker": "2",
+                "story": "7",
+                "assigned_story": "11"
+            },
+            "chair_9": {
+                "speaker": "9",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_10": {
+                "speaker": "5",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_11": {
+                "speaker": "20",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_12": {
+                "speaker": "1",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_13": {
+                "speaker": "18",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_14": {
+                "speaker": "4",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_15": {
+                "speaker": "12",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_16": {
+                "speaker": "16",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_17": {
+                "speaker": "19",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_18": {
+                "speaker": "6",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_19": {
+                "speaker": "8",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_20": {
+                "speaker": "3",
+                "story": "11",
+                "assigned_story": "11"
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": "3",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_2": {
+                "speaker": "9",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_3": {
+                "speaker": "15",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_4": {
+                "speaker": "5",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_5": {
+                "speaker": "14",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_6": {
+                "speaker": "20",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_7": {
+                "speaker": "12",
+                "story": "7",
+                "assigned_story": "11"
+            },
+            "chair_8": {
+                "speaker": "18",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_9": {
+                "speaker": "13",
+                "story": "10",
+                "assigned_story": "11"
+            },
+            "chair_10": {
+                "speaker": "16",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_11": {
+                "speaker": "7",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_12": {
+                "speaker": "8",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_13": {
+                "speaker": "2",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_14": {
+                "speaker": "17",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_15": {
+                "speaker": "10",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_16": {
+                "speaker": "19",
+                "story": "9",
+                "assigned_story": "11"
+            },
+            "chair_17": {
+                "speaker": "1",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_18": {
+                "speaker": "11",
+                "story": "3",
+                "assigned_story": "11"
+            },
+            "chair_19": {
+                "speaker": "4",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_20": {
+                "speaker": "6",
+                "story": "5",
+                "assigned_story": "11"
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": "16",
+                "story": "3",
+                "assigned_story": "11"
+            },
+            "chair_2": {
+                "speaker": "15",
+                "story": "8",
+                "assigned_story": "11"
+            },
+            "chair_3": {
+                "speaker": "6",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_4": {
+                "speaker": "3",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_5": {
+                "speaker": "1",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_6": {
+                "speaker": "18",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_7": {
+                "speaker": "9",
+                "story": "10",
+                "assigned_story": "11"
+            },
+            "chair_8": {
+                "speaker": "8",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_9": {
+                "speaker": "7",
+                "story": "6",
+                "assigned_story": "11"
+            },
+            "chair_10": {
+                "speaker": "5",
+                "story": "5",
+                "assigned_story": "11"
+            },
+            "chair_11": {
+                "speaker": "17",
+                "story": "4",
+                "assigned_story": "11"
+            },
+            "chair_12": {
+                "speaker": "2",
+                "story": "7",
+                "assigned_story": "11"
+            },
+            "chair_13": {
+                "speaker": "10",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_14": {
+                "speaker": "14",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_15": {
+                "speaker": "4",
+                "story": "2",
+                "assigned_story": "11"
+            },
+            "chair_16": {
+                "speaker": "11",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_17": {
+                "speaker": "13",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_18": {
+                "speaker": "19",
+                "story": "1",
+                "assigned_story": "11"
+            },
+            "chair_19": {
+                "speaker": "20",
+                "story": "9",
+                "assigned_story": "11"
+            },
+            "chair_20": {
+                "speaker": "12",
+                "story": "11",
+                "assigned_story": "11"
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": "19",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_2": {
+                "speaker": "6",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_3": {
+                "speaker": "3",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_4": {
+                "speaker": "18",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_5": {
+                "speaker": "4",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_6": {
+                "speaker": "8",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_7": {
+                "speaker": "17",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_8": {
+                "speaker": "16",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_9": {
+                "speaker": "2",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_10": {
+                "speaker": "20",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_11": {
+                "speaker": "1",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_12": {
+                "speaker": "5",
+                "story": "9",
+                "assigned_story": "11"
+            },
+            "chair_13": {
+                "speaker": "9",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_14": {
+                "speaker": "11",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_15": {
+                "speaker": "10",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_16": {
+                "speaker": "7",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_17": {
+                "speaker": "13",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_18": {
+                "speaker": "12",
+                "story": "7",
+                "assigned_story": "11"
+            },
+            "chair_19": {
+                "speaker": "15",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_20": {
+                "speaker": "14",
+                "story": "11",
+                "assigned_story": "11"
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": "2",
+                "story": "2",
+                "assigned_story": "11"
+            },
+            "chair_2": {
+                "speaker": "16",
+                "story": "7",
+                "assigned_story": "11"
+            },
+            "chair_3": {
+                "speaker": "4",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_4": {
+                "speaker": "7",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_5": {
+                "speaker": "20",
+                "story": "1",
+                "assigned_story": "11"
+            },
+            "chair_6": {
+                "speaker": "6",
+                "story": "10",
+                "assigned_story": "11"
+            },
+            "chair_7": {
+                "speaker": "5",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_8": {
+                "speaker": "13",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_9": {
+                "speaker": "11",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_10": {
+                "speaker": "1",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_11": {
+                "speaker": "9",
+                "story": "3",
+                "assigned_story": "11"
+            },
+            "chair_12": {
+                "speaker": "17",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_13": {
+                "speaker": "14",
+                "story": "9",
+                "assigned_story": "11"
+            },
+            "chair_14": {
+                "speaker": "10",
+                "story": "4",
+                "assigned_story": "11"
+            },
+            "chair_15": {
+                "speaker": "8",
+                "story": "5",
+                "assigned_story": "11"
+            },
+            "chair_16": {
+                "speaker": "15",
+                "story": "8",
+                "assigned_story": "11"
+            },
+            "chair_17": {
+                "speaker": "12",
+                "story": "6",
+                "assigned_story": "11"
+            },
+            "chair_18": {
+                "speaker": "18",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_19": {
+                "speaker": "3",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_20": {
+                "speaker": "19",
+                "story": "11",
+                "assigned_story": "11"
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": "14",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_2": {
+                "speaker": "4",
+                "story": "4",
+                "assigned_story": "11"
+            },
+            "chair_3": {
+                "speaker": "12",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_4": {
+                "speaker": "13",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_5": {
+                "speaker": "1",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_6": {
+                "speaker": "8",
+                "story": "2",
+                "assigned_story": "11"
+            },
+            "chair_7": {
+                "speaker": "16",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_8": {
+                "speaker": "6",
+                "story": "5",
+                "assigned_story": "11"
+            },
+            "chair_9": {
+                "speaker": "7",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_10": {
+                "speaker": "10",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_11": {
+                "speaker": "17",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_12": {
+                "speaker": "2",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_13": {
+                "speaker": "20",
+                "story": "6",
+                "assigned_story": "11"
+            },
+            "chair_14": {
+                "speaker": "15",
+                "story": "9",
+                "assigned_story": "11"
+            },
+            "chair_15": {
+                "speaker": "5",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_16": {
+                "speaker": "19",
+                "story": "7",
+                "assigned_story": "11"
+            },
+            "chair_17": {
+                "speaker": "3",
+                "story": "10",
+                "assigned_story": "11"
+            },
+            "chair_18": {
+                "speaker": "11",
+                "story": "3",
+                "assigned_story": "11"
+            },
+            "chair_19": {
+                "speaker": "18",
+                "story": "8",
+                "assigned_story": "11"
+            },
+            "chair_20": {
+                "speaker": "9",
+                "story": "11",
+                "assigned_story": "11"
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": "4",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_2": {
+                "speaker": "7",
+                "story": "4",
+                "assigned_story": "4"
+            },
+            "chair_3": {
+                "speaker": "10",
+                "story": "8",
+                "assigned_story": "11"
+            },
+            "chair_4": {
+                "speaker": "15",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_5": {
+                "speaker": "1",
+                "story": "6",
+                "assigned_story": "7"
+            },
+            "chair_6": {
+                "speaker": "6",
+                "story": "10",
+                "assigned_story": "10"
+            },
+            "chair_7": {
+                "speaker": "8",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_8": {
+                "speaker": "19",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_9": {
+                "speaker": "2",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_10": {
+                "speaker": "3",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_11": {
+                "speaker": "18",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_12": {
+                "speaker": "14",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_13": {
+                "speaker": "9",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_14": {
+                "speaker": "20",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_15": {
+                "speaker": "17",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_16": {
+                "speaker": "16",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_17": {
+                "speaker": "13",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_18": {
+                "speaker": "5",
+                "story": "2",
+                "assigned_story": "2"
+            },
+            "chair_19": {
+                "speaker": "12",
+                "story": "7",
+                "assigned_story": "11"
+            },
+            "chair_20": {
+                "speaker": "11",
+                "story": "11",
+                "assigned_story": "11"
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": "9",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_2": {
+                "speaker": "20",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_3": {
+                "speaker": "11",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_4": {
+                "speaker": "15",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_5": {
+                "speaker": "10",
+                "story": "9",
+                "assigned_story": "11"
+            },
+            "chair_6": {
+                "speaker": "18",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_7": {
+                "speaker": "6",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_8": {
+                "speaker": "14",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_9": {
+                "speaker": "7",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_10": {
+                "speaker": "4",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_11": {
+                "speaker": "5",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_12": {
+                "speaker": "2",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_13": {
+                "speaker": "17",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_14": {
+                "speaker": "19",
+                "story": "6",
+                "assigned_story": "11"
+            },
+            "chair_15": {
+                "speaker": "16",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_16": {
+                "speaker": "3",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_17": {
+                "speaker": "1",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_18": {
+                "speaker": "12",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_19": {
+                "speaker": "8",
+                "story": "2",
+                "assigned_story": "11"
+            },
+            "chair_20": {
+                "speaker": "13",
+                "story": "11",
+                "assigned_story": "11"
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": "18",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_2": {
+                "speaker": "14",
+                "story": "9",
+                "assigned_story": "11"
+            },
+            "chair_3": {
+                "speaker": "3",
+                "story": "3",
+                "assigned_story": "11"
+            },
+            "chair_4": {
+                "speaker": "12",
+                "story": "5",
+                "assigned_story": "11"
+            },
+            "chair_5": {
+                "speaker": "6",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_6": {
+                "speaker": "4",
+                "story": "7",
+                "assigned_story": "11"
+            },
+            "chair_7": {
+                "speaker": "9",
+                "story": "8",
+                "assigned_story": "11"
+            },
+            "chair_8": {
+                "speaker": "19",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_9": {
+                "speaker": "5",
+                "story": "1",
+                "assigned_story": "11"
+            },
+            "chair_10": {
+                "speaker": "20",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_11": {
+                "speaker": "15",
+                "story": "6",
+                "assigned_story": "11"
+            },
+            "chair_12": {
+                "speaker": "13",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_13": {
+                "speaker": "17",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_14": {
+                "speaker": "1",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_15": {
+                "speaker": "10",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_16": {
+                "speaker": "11",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_17": {
+                "speaker": "2",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_18": {
+                "speaker": "7",
+                "story": "10",
+                "assigned_story": "11"
+            },
+            "chair_19": {
+                "speaker": "8",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_20": {
+                "speaker": "16",
+                "story": "11",
+                "assigned_story": "11"
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": "17",
+                "story": "7",
+                "assigned_story": "11"
+            },
+            "chair_2": {
+                "speaker": "2",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_3": {
+                "speaker": "10",
+                "story": "6",
+                "assigned_story": "11"
+            },
+            "chair_4": {
+                "speaker": "5",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_5": {
+                "speaker": "13",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_6": {
+                "speaker": "15",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_7": {
+                "speaker": "16",
+                "story": "2",
+                "assigned_story": "11"
+            },
+            "chair_8": {
+                "speaker": "4",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_9": {
+                "speaker": "11",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_10": {
+                "speaker": "18",
+                "story": "1",
+                "assigned_story": "11"
+            },
+            "chair_11": {
+                "speaker": "8",
+                "story": "4",
+                "assigned_story": "11"
+            },
+            "chair_12": {
+                "speaker": "6",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_13": {
+                "speaker": "7",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_14": {
+                "speaker": "3",
+                "story": "10",
+                "assigned_story": "11"
+            },
+            "chair_15": {
+                "speaker": "12",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_16": {
+                "speaker": "20",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_17": {
+                "speaker": "1",
+                "story": "9",
+                "assigned_story": "11"
+            },
+            "chair_18": {
+                "speaker": "9",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_19": {
+                "speaker": "19",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_20": {
+                "speaker": "14",
+                "story": "11",
+                "assigned_story": "11"
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": "17",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_2": {
+                "speaker": "10",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_3": {
+                "speaker": "3",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_4": {
+                "speaker": "13",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_5": {
+                "speaker": "9",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_6": {
+                "speaker": "2",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_7": {
+                "speaker": "15",
+                "story": "8",
+                "assigned_story": "11"
+            },
+            "chair_8": {
+                "speaker": "6",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_9": {
+                "speaker": "18",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_10": {
+                "speaker": "11",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_11": {
+                "speaker": "5",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_12": {
+                "speaker": "19",
+                "story": "4",
+                "assigned_story": "11"
+            },
+            "chair_13": {
+                "speaker": "12",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_14": {
+                "speaker": "4",
+                "story": "9",
+                "assigned_story": "11"
+            },
+            "chair_15": {
+                "speaker": "20",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_16": {
+                "speaker": "16",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_17": {
+                "speaker": "8",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_18": {
+                "speaker": "1",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_19": {
+                "speaker": "7",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_20": {
+                "speaker": "14",
+                "story": "5",
+                "assigned_story": "11"
+            }
+        },
+        {
+            "chair_1": {
+                "speaker": "17",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_2": {
+                "speaker": "5",
+                "story": "9",
+                "assigned_story": "11"
+            },
+            "chair_3": {
+                "speaker": "7",
+                "story": "1",
+                "assigned_story": "11"
+            },
+            "chair_4": {
+                "speaker": "16",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_5": {
+                "speaker": "11",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_6": {
+                "speaker": "20",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_7": {
+                "speaker": "12",
+                "story": "3",
+                "assigned_story": "11"
+            },
+            "chair_8": {
+                "speaker": "1",
+                "story": "2",
+                "assigned_story": "11"
+            },
+            "chair_9": {
+                "speaker": "8",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_10": {
+                "speaker": "2",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_11": {
+                "speaker": "4",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_12": {
+                "speaker": "18",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_13": {
+                "speaker": "15",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_14": {
+                "speaker": "6",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_15": {
+                "speaker": "3",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_16": {
+                "speaker": "14",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_17": {
+                "speaker": "9",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_18": {
+                "speaker": "19",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_19": {
+                "speaker": "13",
+                "story": "11",
+                "assigned_story": "11"
+            },
+            "chair_20": {
+                "speaker": "10",
+                "story": "7",
+                "assigned_story": "11"
+            }
+        }
+    ]
+}
