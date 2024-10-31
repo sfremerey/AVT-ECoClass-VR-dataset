@@ -1,4 +1,5 @@
 # AVT-ECoClass-VR-dataset
+[![DOI](https://zenodo.org/badge/881347553.svg)](https://doi.org/10.5281/zenodo.14019040)
 
 This is a repository related to the AVT-ECoClass-VR-dataset that is published in course of the paper submitted to the Frontiers research topic "Crossing Sensory Boundaries: Multisensory Perception Through the Lens of Audition".
 It contains the data collected during the three subjective experiments described in the mentioned paper.
