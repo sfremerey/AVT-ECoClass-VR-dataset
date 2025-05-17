@@ -22,21 +22,22 @@ The dataset is part of the project [ECoClass-VR](https://www.tu-ilmenau.de/en/un
 If you want to download both IVEs and the 360° video and CGI dataset used during this study, please refer to [AVT-ECoClass-VR](https://github.com/Telecommunication-Telemedia-Assessment/AVT-ECoClass-VR).
 
 This study explores how audiovisual Immersive Virtual Environments (IVEs) can assess cognitive performance in classroom-like settings, addressing limitations in simpler acoustic and visual representations.
-This paper examines the potential of a test paradigm using speaker-story mapping, called ["audio-visual scene analysis (AV-SA)"](https://backend.orbit.dtu.dk/ws/portalfiles/portal/192631885/001189.pdf), originally developed for Virtual Reality (VR) hearing research, as a method to evaluate audiovisual scene analysis in a virtual classroom scenario.
+This paper examines the potential of a test paradigm using speaker-story mapping, called "audiovisual scene analysis (AV-SA)", originally developed for Virtual Reality (VR) hearing research, as a method to evaluate audiovisual scene analysis in a virtual classroom scenario.
 Factors of acoustic and visual scene representation were varied to investigate their impact on audiovisual scene analysis.
-Two acoustic representations were used, a simple diotic, also called monaural, presentation with the same signal presented to both ears ("diotic"), as well as a dynamically live-rendered binaural synthesis ("binaural").
+Two acoustic representations were used, a simple "diotic" presentation with the same signal presented to both ears, as well as a dynamically live-rendered binaural synthesis ("binaural").
 Two visual representations were used: 360° / omnidirectional video with intrinsic lip-sync, and computer-generated imagery (CGI) without lip-sync.
-Three subjective experiments were conducted, with different combinations of the two acoustic and visual conditions: The first experiment, involving 36 participants, used 360° video but with "binaural" audio.
+Three subjective experiments were conducted, with different combinations of the two acoustic and visual conditions: The first experiment, involving 36 participants, used 360° video with "binaural" audio.
 The second experiment, with 24 participants, combined 360° video with "diotic" audio.
 The third experiment, with 34 participants, used the CGI environment with "binaural" audio.
 Each environment presented 20 different speakers in a classroom-like circle of 20 chairs, with the number of simultaneously active speakers ranging from two to ten, while the remaining speakers kept silent and were always shown.
-During the experiments, the subjects' task was to correctly map the stories' topics to the corresponding talkers.
+During the experiments, the subjects' task was to correctly map the stories' topics to the corresponding speakers.
 The primary dependent variable was the number of correct assignments during a fixed period of 2 min, followed by two questionnaires on mental load after each trial.
 In addition, before and / or after the experiments, subjects needed to complete questionnaires about simulator sickness, noise sensitivity, and presence.
-Results indicate that the test modality significantly influenced task performance, mental load, and user behaviour but did not affect perceived simulator sickness and presence.
-Performance decreased when comparing the 360° video and "binaural" audio experiment with either the experiment using "diotic" audio and 360° , or using "binaural" audio with CGI-based, showing the usefulness of the test method to investigate uni-modal and cross-modal influences on cognitive audiovisual scene analysis performance.
+Results indicate that the experimental condition significantly influenced task performance, mental load, and user behaviour but did not affect perceived simulator sickness and presence.
+Performance decreased when comparing the 360° video and "binaural" audio experiment with either the experiment using "diotic" audio and 360°, or using "binaural" audio with CGI-based, showing the usefulness of the test method in investigating influences on cognitive audiovisual scene analysis performance.
 
 ## Structure
+* `analysis`: Contains the analysis of the data from the three different subjective tests in the 3 different formats HTML, Jupyter Notebook and Python.
 * `avrateNG`: Contains a modified version of the [AVrateNG](https://github.com/Telecommunication-Telemedia-Assessment/avrateNG) software. Was used to obtain SSQ questionnaire ratings before and after each experiment, Weinstein's noise sensitivity scale ratings before each experiment, IPQ ratings after each experiment and NASA RTLX and listening effort questionnaire ratings after each trial for each experiment.
 * `subjective_data`: Generated data per subjective test
     * `360_binaural`: Generated data for the 360° IVE (binaural audio condition)
