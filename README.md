@@ -10,10 +10,14 @@ If you make use any of the dataset please cite the following paper:
 ```bibtex
 @article{fremerey2024speakerstory,
   title={Speaker-Story Mapping as a Method to Evaluate Audiovisual Scene Analysis in a Virtual Classroom Scenario},
-  author={Stephan Fremerey and Carolin Breuer and Larissa Leist and Maria Klatte and Janina Fels and Alexander Raake},
-  journal={Frontiers in Neuroscience},
-  year={2024},
-  publisher={Frontiers Media SA}
+  author={Fremerey, Stephan and Breuer, Carolin and Leist, Larissa and Klatte, Maria and Fels, Janina and Raake, Alexander},
+  journal={Frontiers in Psychology},
+  volume={16},
+  pages={24},
+  publisher={Frontiers},
+  doi={10.3389/fpsyg.2025.1520630},
+  url={https://doi.org/10.3389/fpsyg.2025.1520630}
+
 }
 ```
 
