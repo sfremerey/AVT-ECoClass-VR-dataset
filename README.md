@@ -8,7 +8,7 @@ This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research
 If you make use any of the dataset please cite the following paper:
 
 ```bibtex
-@article{fremerey2024speakerstory,
+@article{fremerey2025speakerstory,
   title={Speaker-Story Mapping as a Method to Evaluate Audiovisual Scene Analysis in a Virtual Classroom Scenario},
   author={Fremerey, Stephan and Breuer, Carolin and Leist, Larissa and Klatte, Maria and Fels, Janina and Raake, Alexander},
   journal={Frontiers in Psychology},
