@@ -13,6 +13,7 @@ If you make use any of the dataset please cite the following paper:
   author={Fremerey, Stephan and Breuer, Carolin and Leist, Larissa and Klatte, Maria and Fels, Janina and Raake, Alexander},
   journal={Frontiers in Psychology},
   volume={16},
+  year={2025},
   pages={24},
   publisher={Frontiers},
   doi={10.3389/fpsyg.2025.1520630},
